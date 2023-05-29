@@ -45,6 +45,4 @@
             $no++;
             }
             ?>
-        </tbody>
-</body>
-</html>
+        </tbody>  
